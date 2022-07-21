@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "incunabula:block/hawthorn_sapling"
+  }
+}

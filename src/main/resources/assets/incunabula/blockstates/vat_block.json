@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "assembled=false": { "model": "minecraft:block/gold_block" },
+    "assembled=true": { "model": "minecraft:block/iron_block" }
+  }
+}

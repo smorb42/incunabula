@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "tag": "incunabula:serpentinite"
+    }
+  },
+  "result": {
+    "item": "incunabula:polished_serpentinite",
+    "count": 4
+  }
+}

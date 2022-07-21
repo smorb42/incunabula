@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.smorb42.incunabula.Incunabula"
+    ],
+    "client": [
+      "net.smorb42.incunabula.IncunabulaClient"
     ]
   },
   "mixins": [

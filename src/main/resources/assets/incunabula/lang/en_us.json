@@ -1,7 +1,18 @@
 {
   "item.incunabula.mythril_ingot": "Mythril Ingot",
 
+  "block.incunabula.hawthorn_leaves": "Hawthorn Leaves",
+  "tooltip.incunabula.hawthorn_leaves": "Magical Leaves",
+
+  "block.incunabula.hawthorn_planks": "Hawthorn Planks",
+  "tooltip.incunabula.hawthorn_planks": "A Magical Plank",
+
+  "block.incunabula.hawthorn_sapling": "Hawthorn Sapling",
+  "tooltip.incunabula.hawthorn_sapling": "A Magical Plant",
 
   "block.incunabula.serpentinite": "Serpentinite",
-  "tooltip.incunabula.serpentinite": "A Magical Stone"
+  "tooltip.incunabula.serpentinite": "A Magical Stone",
+
+  "block.incunabula.polished_serpentinite": "Polished Serpentinite",
+  "tooltip.incunabula.polished_serpentinite": "A Magical Stone"
 }

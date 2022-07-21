@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "incunabula:hawthorn_log",
+    "incunabula:hawthorn_wood",
+    "incunabula:stripped_hawthorn_log",
+    "incunabula:stripped_hawthorn_wood"
+  ]
+}
